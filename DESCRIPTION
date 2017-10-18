@@ -18,7 +18,7 @@ Description: This package provides publicly available data from The Cancer
     across the entire experiment.
 License: Artistic-2.0
 Depends:
-    R (>= 3.4.0),
+    R (>= 3.2.0),
     ExperimentHub,
     ExperimentHubData
 Imports:
